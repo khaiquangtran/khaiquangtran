@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: **I love peace**
 
-<h3 align="left">Connect with me:</h3> **khaiquangtranabc@gmail.com**
+<h3 align="left">Connect with me:</h3> khaiquangtranabc@gmail.com
 <p align="left">
 </p>
 
