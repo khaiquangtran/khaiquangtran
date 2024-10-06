@@ -1,15 +1,13 @@
 <h1 align="center">Hello 👋, I'm Trần Quang Khải</h1>
 <h3 align="center">I'm on my way to creating a meaningful project of my own</h3>
 
-- 🌱 I’m currently learning **C/C++, Python, Nodejs, etc, ...**
+- 🌱 I’m currently learning: **C/C++, Python, Nodejs, etc, ...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khaiquangtran?tab=repositories](https://github.com/khaiquangtran?tab=repositories)
 
-- 📫 How to reach me **khaiquangtranabc@gmail.com**
+- ⚡ Fun fact: **I love peace**
 
-- ⚡ Fun fact **I love peace**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> **khaiquangtranabc@gmail.com**
 <p align="left">
 </p>
 
