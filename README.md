@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Trần+Quang+Khải;" />
 </h1>
 
-- 🌱 I’m currently learning: **C/C++, Python, Nodejs, etc, ...**
+- 🌱 I’m currently working: **C/C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khaiquangtran?tab=repositories](https://github.com/khaiquangtran?tab=repositories)
 
