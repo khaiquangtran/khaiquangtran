@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact: **I love peace**
 
+- ⚡ Target: **Coding until I get a girlfriend**
+
 <h3 align="left">Connect with me:</h3> khaiquangtranabc@gmail.com
 <p align="left">
 </p>
